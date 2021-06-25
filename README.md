@@ -1,7 +1,15 @@
 # AnimeLife
 
 Bem-Vindos ao AnimeLife, um aplicativo desenvolvido em Flutter para te recomendar os melhores animes.
-## Como Funciona?
+
+## O que eu Posso acessar no APP?
+
+- Página principal: veja os animes da temporada atual e os mais populares pelo MyAnimeList;
+- Calendário: Assim é possível acompanhar os animes em lançamento e qual dia da semana tem episódios novos;
+- Página do Anime: consulte mais informações do seu anime favorito;
+- Devs: Conheça um pouco sobre cada um de nós, que dedicamos nossas vidas por esse projeto.
+
+## Como Funciona a Recomendação?
 
 ### 1º MyAnimeList:
 
@@ -26,10 +34,10 @@ Com essas informações um microsserviço gera um modelo de análise sobre as pr
 
 ## O que foi utilizado?
 
-- Plataforma MyAnimeList: resgatar os dados do usuário para a criação do modelo (https://myanimelist.net/)
-- API Jikan: onde é possível resgatar as infromações dos animes (https://jikan.docs.apiary.io/#)
-- Plataforma Marvel: criação do Wireframe para auxílio na elaboração das telas do projeto (https://marvelapp.com/)
-- Documentação Flutter: auxílio na criação do projeto(https://flutter.dev/docs)
-- Dio: cliente HTTP para Dart(https://pub.dev/packages/dio)
+- Plataforma MyAnimeList: resgatar os dados do usuário para a criação do modelo (https://myanimelist.net/);
+- API Jikan: onde é possível resgatar as infromações dos animes (https://jikan.docs.apiary.io/#);
+- Plataforma Marvel: criação do Wireframe para auxílio na elaboração das telas do projeto (https://marvelapp.com/);
+- Documentação Flutter: auxílio na criação do projeto(https://flutter.dev/docs);
+- Dio: cliente HTTP para Dart(https://pub.dev/packages/dio).
 
 
