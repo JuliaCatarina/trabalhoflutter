@@ -7,7 +7,7 @@ Bem-Vindos ao AnimeLife, um aplicativo desenvolvido em Flutter para te recomenda
 - Página principal: veja os animes da temporada atual e os mais populares pelo MyAnimeList;
 - Calendário: Assim é possível acompanhar os animes em lançamento e qual dia da semana tem episódios novos;
 - Página do Anime: consulte mais informações do seu anime favorito;
-- Devs: Conheça um pouco sobre cada um de nós, que dedicamos nossas vidas por esse projeto.
+- Devs: Conheça um pouco sobre cada um de nós.
 
 ## Como Funciona a Recomendação?
 
