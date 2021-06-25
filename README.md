@@ -1,6 +1,5 @@
-# animelife
+# AnimeLife
 
-A new Flutter project.
-
+Bem-Vindos ao AnimeLife
 ## Getting Started
 
